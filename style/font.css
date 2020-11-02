@@ -1,0 +1,16 @@
+@font-face {
+    src: url(../fonts/DaysOne-Regular.ttf);
+    font-family: 'DaysOne-Regular';
+}
+@font-face {
+    src: url(../fonts/Roboto-Light.ttf);
+    font-family: 'Roboto-Light';
+}
+@font-face {
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-family: 'Roboto-Bold';
+}
+@font-face {
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-family: 'Roboto-Regular';
+}
